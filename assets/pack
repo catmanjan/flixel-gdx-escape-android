@@ -1,0 +1,145 @@
+
+pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+StartZone
+  rotate: false
+  xy: 1, 3590
+  size: 480, 224
+  orig: 480, 224
+  offset: 0, 0
+  index: -1
+Laser
+  rotate: false
+  xy: 1, 3564
+  size: 480, 24
+  orig: 480, 24
+  offset: 0, 0
+  index: -1
+PilotLaser
+  rotate: false
+  xy: 1, 3561
+  size: 480, 1
+  orig: 480, 1
+  offset: 0, 0
+  index: -1
+NewRecord
+  rotate: false
+  xy: 1, 3543
+  size: 332, 16
+  orig: 332, 16
+  offset: 0, 0
+  index: -1
+LaserGun
+  rotate: false
+  xy: 1, 3445
+  size: 320, 96
+  orig: 320, 96
+  offset: 0, 0
+  index: -1
+StartGame
+  rotate: false
+  xy: 1, 3417
+  size: 300, 26
+  orig: 300, 26
+  offset: 0, 0
+  index: -1
+Bg1
+  rotate: false
+  xy: 1, 1015
+  size: 240, 2400
+  orig: 240, 2400
+  offset: 0, 0
+  index: -1
+Sky
+  rotate: false
+  xy: 243, 1815
+  size: 240, 1600
+  orig: 240, 1600
+  offset: 0, 0
+  index: -1
+Player
+  rotate: false
+  xy: 303, 3423
+  size: 128, 20
+  orig: 128, 20
+  offset: 0, 0
+  index: -1
+Gibs
+  rotate: false
+  xy: 433, 3551
+  size: 40, 8
+  orig: 40, 8
+  offset: 0, 0
+  index: -1
+DefaultButton
+  rotate: false
+  xy: 335, 3499
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+Spark
+  rotate: false
+  xy: 323, 3538
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+Shocker
+  rotate: false
+  xy: 417, 3533
+  size: 72, 16
+  orig: 72, 16
+  offset: 0, 0
+  index: -1
+Bg2
+  rotate: false
+  xy: 1, 373
+  size: 240, 640
+  orig: 240, 640
+  offset: 0, 0
+  index: -1
+WallMap
+  rotate: false
+  xy: 1, 19
+  size: 240, 352
+  orig: 240, 352
+  offset: 0, 0
+  index: -1
+Bg3
+  rotate: false
+  xy: 243, 1493
+  size: 240, 320
+  orig: 240, 320
+  offset: 0, 0
+  index: -1
+Bg4
+  rotate: false
+  xy: 243, 1171
+  size: 240, 320
+  orig: 240, 320
+  offset: 0, 0
+  index: -1
+GameOver
+  rotate: false
+  xy: 243, 849
+  size: 240, 320
+  orig: 240, 320
+  offset: 0, 0
+  index: -1
+Title
+  rotate: false
+  xy: 243, 527
+  size: 240, 320
+  orig: 240, 320
+  offset: 0, 0
+  index: -1
+Floor
+  rotate: false
+  xy: 1, 1
+  size: 240, 16
+  orig: 240, 16
+  offset: 0, 0
+  index: -1
